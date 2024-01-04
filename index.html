@@ -198,5 +198,13 @@
 	<script defer src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
 	<script defer src="./assets/maugallery.js"></script>
 	<script defer src="./assets/scripts.js"></script>
+	<script>
+		document.addEventListener("DOMContentLoaded", function() {
+			var images = document.querySelectorAll("img");
+			images.forEach(function(image) {
+				image.setAttribute("loading", "lazy");
+			});
+		});
+	</script>	
 </body>
 </html>
