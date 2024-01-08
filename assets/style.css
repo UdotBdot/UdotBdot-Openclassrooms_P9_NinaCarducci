@@ -5,6 +5,7 @@ body {
 * {
 	font-family: 'Inter';
 	font-style: normal;
+	font-display: swap;
 }
 .top-header {
 	background-color: white;
@@ -276,7 +277,6 @@ input[type="submit"] {
 		bottom: auto;
 		top: 0;
 		left: 0;
-		z-index: -1;
 	}
 	.about-me__title{
 		text-align: center;
