@@ -5,10 +5,6 @@ Projet 9 OpenClassrooms
 
 Ce projet est le portfolio en ligne de Nina Carducci, une photographe basée à Bordeaux. Il a été amélioré pour assurer une meilleure accessibilité, des performances optimisées et un bon référencement SEO.
 
-<div align="center">
-<img src="./assets/images/nina carducci preview.png>
-</div>
-
 ## Fonctionnalités
 
 - Présentation des projets de photographie de Nina Carducci, avec des images de haute qualité et des descriptions détaillées.
